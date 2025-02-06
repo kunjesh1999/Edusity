@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import dark_arrow from '/React/RD/my-app/src/Components/Hero/dark_arrow.png' 
+import dark_arrow from './dark_arrow.png' 
 // import Hero from '../Hero/hero.png'
 const Hero = () => {
     return (
